@@ -5,4 +5,5 @@ function afficherIndice() {
     var indiceSection = document.getElementById('indice');
     indiceSection.appendChild(indiceBloc);
     document.getElementById('bouton-indice').disabled = true;
+    //dzq
 }
